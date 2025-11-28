@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Palindrom Checker</string>
+
+    <string name="enter_text">Masukkan teks</string>
+    <string name="check_palindrome">Cek Palindrom</string>
+    <string name="is_palindrome">Palindrom</string>
+    <string name="not_palindrome">Bukan Palindrom</string>
+
+    <string name="iterative_result">Iteratif: %1$s</string>
+    <string name="recursive_result">Rekursif: %1$s</string>
+    <string name="iterative_time">Waktu iteratif: %1$d ns</string>
+    <string name="recursive_time">Waktu rekursif: %1$d ns</string>
+</resources>
